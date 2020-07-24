@@ -1,0 +1,14 @@
+backups/
+.mixin/
+crash-reports/
+DELETEME/
+library/
+libraries/
+local/
+logs/
+patchouli_books/
+TombManyGraves/
+crafttweaker.log
+serverstart.log
+usercach.json
+usernamecache.json
