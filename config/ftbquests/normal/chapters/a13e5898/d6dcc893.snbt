@@ -1,0 +1,16 @@
+{
+	title: "This is a progression item, dont remove, only edit",
+	x: -12.0d,
+	y: -5.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "7b953f03",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:kitchen_floor"
+		}],
+		count: 5L
+	}]
+}

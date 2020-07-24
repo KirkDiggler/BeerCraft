@@ -1,0 +1,43 @@
+{
+	title: "Getting Started",
+	icon: "tconstruct:materials",
+	x: -1.0d,
+	y: -1.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "919c171d",
+		type: "item",
+		items: [{
+			item: "minecraft:clay_ball"
+		}],
+		count: 50L,
+		consume_items: false
+	},
+	{
+		uid: "0610359d",
+		type: "item",
+		items: [{
+			item: "minecraft:sand"
+		}],
+		count: 51L,
+		consume_items: false
+	},
+	{
+		uid: "4b3d452f",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}],
+		count: 50L,
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "02308378",
+		type: "item",
+		team_reward: false,
+		item: "tconstruct:materials",
+		count: 32
+	}]
+}

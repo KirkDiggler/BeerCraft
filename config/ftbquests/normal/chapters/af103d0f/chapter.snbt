@@ -1,0 +1,7 @@
+{
+	title: "KHAAAAAN",
+	icon: "iceandfire:hydra_skull",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: "rsquare"
+}

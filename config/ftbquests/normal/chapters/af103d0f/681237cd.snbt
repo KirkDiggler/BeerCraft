@@ -1,0 +1,35 @@
+{
+	title: "Screw Those Guys",
+	x: -15.0d,
+	y: -6.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "dd3084b2",
+		type: "kill",
+		icon: {
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "mekanism:babyskeleton"
+				}
+			}
+		},
+		entity: "mekanism:babyskeleton",
+		value: 10L
+	}],
+	rewards: [{
+		uid: "f8477747",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1s,
+					id: 17
+				}]
+			}
+		}
+	}]
+}

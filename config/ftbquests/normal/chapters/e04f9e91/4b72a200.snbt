@@ -1,0 +1,21 @@
+{
+	x: -10.0d,
+	y: -8.5d,
+	dependencies: [
+		"3b43ce0d"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "d848ea8e",
+		type: "fluid",
+		title: "Not Safe to Drink",
+		icon: "minecraft:lava_bucket",
+		fluid: "lava"
+	}],
+	rewards: [{
+		uid: "f304a84f",
+		type: "item",
+		item: "harvestcraft:rootbeerfloatitem",
+		count: 3
+	}]
+}

@@ -1,0 +1,51 @@
+{
+	title: "The Beach Is Nice This Time of Year",
+	icon: "harvestcraft:pinacoladaitem",
+	x: -8.5d,
+	y: -11.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"adf071c8"
+	],
+	tasks: [{
+		uid: "07121836",
+		type: "stat",
+		icon: "minecraft:skull 1 3",
+		stat: "stat.deaths",
+		value: 20
+	}],
+	rewards: [{
+		uid: "7646871a",
+		type: "item",
+		icon: {
+			id: "tropicraft:cocktail",
+			tag: {
+				Ingredients: [{
+					IngredientID: 10b
+				},
+				{
+					IngredientID: 12b
+				}],
+				Color: 15724527,
+				DrinkID: 6b
+			}
+		},
+		team_reward: false,
+		item: {
+			id: "tropicraft:cocktail",
+			tag: {
+				Ingredients: [{
+					IngredientID: 10b
+				},
+				{
+					IngredientID: 12b
+				}],
+				Color: 15724527,
+				DrinkID: 6b
+			}
+		},
+		count: 10
+	}]
+}

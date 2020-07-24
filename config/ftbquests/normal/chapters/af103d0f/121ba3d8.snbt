@@ -1,0 +1,46 @@
+{
+	title: "Welcome to the Boneyard",
+	x: -0.5d,
+	y: -6.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"061728d6"
+	],
+	tasks: [{
+		uid: "48a27e12",
+		type: "kill",
+		icon: "mysticalagriculture:skeleton_essence",
+		entity: "minecraft:skeleton",
+		value: 100000L
+	}],
+	rewards: [{
+		uid: "c26f8f52",
+		type: "item",
+		item: "minecraft:skull"
+	},
+	{
+		uid: "38f9fc93",
+		type: "item",
+		item: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:skeleton"
+			}
+		}
+	},
+	{
+		uid: "ce3ae00f",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 5s,
+					id: 17
+				}]
+			}
+		}
+	}]
+}

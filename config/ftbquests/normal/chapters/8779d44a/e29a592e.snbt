@@ -1,0 +1,24 @@
+{
+	title: "#FoodTruckLife",
+	x: -3.0d,
+	y: -3.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"b1a15b11"
+	],
+	tasks: [{
+		uid: "6c1e370c",
+		type: "item",
+		items: [{
+			item: "cookingforblockheads:counter"
+		}]
+	}],
+	rewards: [{
+		uid: "51ec877b",
+		type: "item",
+		item: "cookingforblockheads:kitchen_floor",
+		count: 5
+	}]
+}

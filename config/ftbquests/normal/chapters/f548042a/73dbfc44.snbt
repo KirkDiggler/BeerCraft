@@ -1,0 +1,73 @@
+{
+	title: "Tier 1!",
+	x: -1.0d,
+	y: 4.0d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "c68f7ea9",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:pick_head"
+			}
+		}]
+	},
+	{
+		uid: "4d206a3a",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:tool_rod"
+			}
+		}]
+	},
+	{
+		uid: "814c7bef",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:binding"
+			}
+		}]
+	},
+	{
+		uid: "002791c7",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:shovel_head"
+			}
+		}]
+	},
+	{
+		uid: "2849657b",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:axe_head"
+			}
+		}]
+	},
+	{
+		uid: "3354f22c",
+		type: "item",
+		items: [{
+			id: "tconstruct:pattern",
+			tag: {
+				PartType: "tconstruct:kama_head"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "447c1046",
+		type: "item",
+		item: "tconstruct:tooltables 1 4"
+	}]
+}

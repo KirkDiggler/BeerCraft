@@ -1,0 +1,26 @@
+{
+	title: "Everybody Gets One",
+	icon: "actuallyadditions:item_player_probe",
+	x: -15.0d,
+	y: -11.5d,
+	shape: "diamond",
+	tasks: [{
+		uid: "de040f1c",
+		type: "stat",
+		icon: "minecraft:skull 1 3",
+		stat: "stat.deaths",
+		value: 2
+	}],
+	rewards: [{
+		uid: "ca4b4141",
+		type: "item",
+		team_reward: false,
+		item: "dungeontactics:silver_glaive"
+	},
+	{
+		uid: "b85ddaf7",
+		type: "item",
+		team_reward: false,
+		item: "spartanshields:shield_basic_stone"
+	}]
+}

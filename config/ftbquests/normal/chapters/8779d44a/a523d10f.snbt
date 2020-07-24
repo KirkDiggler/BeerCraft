@@ -1,0 +1,30 @@
+{
+	title: "Its The Little Things",
+	x: -0.5d,
+	y: -3.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"e29a592e"
+	],
+	tasks: [{
+		uid: "3a5ce7e5",
+		type: "item",
+		items: [{
+			item: "malisisdoors:door_factory"
+		}]
+	}],
+	rewards: [{
+		uid: "b24a00d5",
+		type: "item",
+		item: "biomesoplenty:ethereal_door",
+		count: 2
+	},
+	{
+		uid: "128f64c0",
+		type: "item",
+		item: "biomesoplenty:willow_door",
+		count: 2
+	}]
+}

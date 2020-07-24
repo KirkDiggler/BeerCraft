@@ -1,0 +1,35 @@
+{
+	title: "You're Doin Great Champ",
+	icon: "minecraft:skull 1 2",
+	x: -12.5d,
+	y: -8.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"709b7eca"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "538b65f1",
+		type: "kill",
+		icon: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:zombie"
+			}
+		},
+		entity: "minecraft:zombie",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "f7898376",
+		type: "item",
+		item: "mysticalagriculture:chunk 1 6"
+	},
+	{
+		uid: "b86ef60b",
+		type: "item",
+		item: "minecraft:skull 1 2"
+	}]
+}

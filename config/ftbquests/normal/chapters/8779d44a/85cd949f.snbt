@@ -1,0 +1,48 @@
+{
+	title: "Pre-Fabulous",
+	x: -13.5d,
+	y: -7.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "175d28ee",
+		type: "item",
+		items: [{
+			item: "prefab:item_start_house"
+		}]
+	}],
+	rewards: [{
+		uid: "0cf1970b",
+		type: "item",
+		item: "minecraft:coal",
+		count: 20
+	},
+	{
+		uid: "e670b1f3",
+		type: "item",
+		item: "minecraft:bow"
+	},
+	{
+		uid: "167b4e2d",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				Parent: {
+					Size: 4,
+					Items: []
+				}
+			},
+			id: "spartanweaponry:quiver_arrow",
+			tag: {
+				ClientInventory: []
+			}
+		}
+	},
+	{
+		uid: "6b0aeba7",
+		type: "item",
+		item: "minecraft:arrow",
+		count: 64
+	}]
+}

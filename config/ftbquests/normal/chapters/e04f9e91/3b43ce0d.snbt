@@ -1,0 +1,16 @@
+{
+	x: -12.5d,
+	y: -8.5d,
+	tasks: [{
+		uid: "7e8ecfd9",
+		type: "fluid",
+		title: "Can you grab me a beer Stan?",
+		icon: "minecraft:water_bucket",
+		fluid: "water"
+	}],
+	rewards: [{
+		uid: "7d2ee50f",
+		type: "item",
+		item: "harvestcraft:rootbeerfloatitem"
+	}]
+}

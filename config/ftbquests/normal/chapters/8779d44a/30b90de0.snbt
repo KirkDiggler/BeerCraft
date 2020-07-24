@@ -1,0 +1,23 @@
+{
+	title: "Moderately Fabulous",
+	x: -13.5d,
+	y: 4.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"85cd949f"
+	],
+	tasks: [{
+		uid: "dbc1ddf3",
+		type: "item",
+		items: [{
+			item: "prefab:item_moderate_house"
+		}]
+	}],
+	rewards: [{
+		uid: "619b578a",
+		type: "item",
+		item: "prefab:item_instant_bridge"
+	}]
+}

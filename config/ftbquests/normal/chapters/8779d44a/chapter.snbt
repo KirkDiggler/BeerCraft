@@ -1,0 +1,7 @@
+{
+	title: "Doin Big Things",
+	icon: "advancedrocketry:satellite",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

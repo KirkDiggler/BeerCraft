@@ -1,0 +1,34 @@
+{
+	title: "Now We're Cookin",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "pyrotheum",
+			Amount: 1000
+		}
+	},
+	x: -7.5d,
+	y: -8.5d,
+	dependencies: [
+		"4b72a200"
+	],
+	tasks: [{
+		uid: "caaa4aff",
+		type: "fluid",
+		title: "Now we're cookin",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "pyrotheum",
+				Amount: 1000
+			}
+		},
+		fluid: "pyrotheum"
+	}],
+	rewards: [{
+		uid: "ef1390e3",
+		type: "item",
+		item: "harvestcraft:rootbeersodaitem",
+		count: 64
+	}]
+}

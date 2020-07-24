@@ -1,0 +1,22 @@
+{
+	icon: "minecraft:writable_book",
+	x: -12.5d,
+	y: -11.5d,
+	dependencies: [
+		"57ef69e3"
+	],
+	tasks: [{
+		uid: "d8d91556",
+		type: "stat",
+		title: "Maybe You Need a New Hobby",
+		icon: "minecraft:skull 1 3",
+		stat: "stat.deaths",
+		value: 5
+	}],
+	rewards: [{
+		uid: "ac7f21f2",
+		type: "item",
+		team_reward: false,
+		item: "levelup2:respecbook"
+	}]
+}

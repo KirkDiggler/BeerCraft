@@ -1,0 +1,55 @@
+{
+	title: "Mighty Toolbelt",
+	x: -6.5d,
+	y: -7.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7c6890c7"
+	],
+	tasks: [{
+		uid: "0017351f",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "784eaad0",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "fd686094",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "30771d2d",
+		type: "item",
+		item: "biomesoplenty:sapling_2 1 2"
+	},
+	{
+		uid: "0861425f",
+		type: "item",
+		item: "biomesoplenty:gem_ore 1 2",
+		count: 3
+	},
+	{
+		uid: "3647b774",
+		type: "item",
+		item: "biomesoplenty:dirt 1 9",
+		count: 64
+	}]
+}

@@ -1,0 +1,203 @@
+{
+	title: "Upgrades People, Upgrades",
+	x: -1.5d,
+	y: -1.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"6bee063c"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "78b95d55",
+		type: "item",
+		title: "Any Hammer",
+		items: [{
+			id: "tconstruct:hammer",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 75,
+					HarvestLevel: 1,
+					Attack: 2.9f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 5.0f,
+					FreeModifiers: 3,
+					Durability: 75,
+					HarvestLevel: 1,
+					Attack: 2.9f
+				},
+				Special: {
+					Categories: [
+						"aoe",
+						"weapon",
+						"harvest",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"flint",
+						"flint",
+						"flint",
+						"flint"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "crude",
+					color: -9868951,
+					level: 3,
+					crude1: 1b,
+					crude2: 1b
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"crude1",
+					"crude2",
+					"toolleveling"
+				]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6e54fdce",
+		type: "item",
+		title: "Any LumberAxe",
+		items: [{
+			id: "tconstruct:lumberaxe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.03f,
+					FreeModifiers: 3,
+					Durability: 2448,
+					HarvestLevel: 0,
+					Attack: 3.8f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.03f,
+					FreeModifiers: 3,
+					Durability: 2448,
+					HarvestLevel: 0,
+					Attack: 3.8f
+				},
+				Special: {
+					Categories: [
+						"aoe",
+						"harvest",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"blueslime",
+						"blueslime",
+						"blueslime",
+						"blueslime"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "slimey_blue",
+					color: -9123641,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"slimey_blue",
+					"toolleveling"
+				]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ccdb6500",
+		type: "item",
+		title: "Any Excavator",
+		items: [{
+			id: "tconstruct:excavator",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 875,
+					HarvestLevel: 0,
+					Attack: 5.5f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 6.0f,
+					FreeModifiers: 3,
+					Durability: 875,
+					HarvestLevel: 0,
+					Attack: 5.5f
+				},
+				Special: {
+					Categories: [
+						"aoe",
+						"harvest",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"firewood",
+						"firewood",
+						"firewood",
+						"firewood"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "autosmelt",
+					color: -3386624,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"autosmelt",
+					"toolleveling"
+				]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "59f5d6fe",
+		type: "item",
+		title: "You Know What To Do With This",
+		item: "minecraft:redstone_block",
+		count: 24
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "Cooking placeholder",
+	icon: "cookingforblockheads:fridge",
+	always_invisible: true,
+	group: 0,
+	default_quest_shape: ""
+}

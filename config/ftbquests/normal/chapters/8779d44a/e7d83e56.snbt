@@ -1,0 +1,109 @@
+{
+	title: "Ore-ange You Glad You Went Mining",
+	x: 3.0d,
+	y: -7.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"b1a15b11"
+	],
+	tasks: [{
+		uid: "cf00c48b",
+		type: "item",
+		items: [{
+			item: "dungeontactics:iron_cluster"
+		}],
+		count: 20L
+	},
+	{
+		uid: "669a15ee",
+		type: "item",
+		items: [{
+			item: "dungeontactics:copper_cluster"
+		}],
+		count: 20L
+	},
+	{
+		uid: "7ceec19c",
+		type: "item",
+		items: [{
+			item: "minecraft:coal"
+		}],
+		count: 20L
+	},
+	{
+		uid: "079763ea",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}]
+	},
+	{
+		uid: "a0d13761",
+		type: "item",
+		items: [{
+			item: "dungeontactics:tin_cluster"
+		}],
+		count: 20L
+	},
+	{
+		uid: "7bc2554d",
+		type: "item",
+		items: [{
+			item: "dungeontactics:aluminium_cluster"
+		}],
+		count: 20L
+	},
+	{
+		uid: "e8c65d29",
+		type: "item",
+		items: [{
+			item: "dungeontactics:silver_cluster"
+		}],
+		count: 20L
+	},
+	{
+		uid: "b2cce867",
+		type: "item",
+		items: [{
+			item: "minecraft:redstone"
+		}],
+		count: 20L
+	}],
+	rewards: [{
+		uid: "042ab346",
+		type: "item",
+		item: "minecraft:iron_block"
+	},
+	{
+		uid: "98c87f64",
+		type: "item",
+		item: "thermalfoundation:storage"
+	},
+	{
+		uid: "ea9840ad",
+		type: "item",
+		item: "minecraft:coal_block"
+	},
+	{
+		uid: "ed8e7a35",
+		type: "item",
+		item: "thermalfoundation:storage 1 1"
+	},
+	{
+		uid: "a58b1ae1",
+		type: "item",
+		item: "thermalfoundation:storage 1 4"
+	},
+	{
+		uid: "8246a14e",
+		type: "item",
+		item: "thermalfoundation:storage 1 2"
+	},
+	{
+		uid: "25986978",
+		type: "item",
+		item: "minecraft:redstone_block"
+	}]
+}

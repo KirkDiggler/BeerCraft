@@ -1,0 +1,25 @@
+{
+	title: "Were Not Aiming For The Truck",
+	icon: "openblocks:hang_glider",
+	x: -6.5d,
+	y: -1.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"192b22da"
+	],
+	tasks: [{
+		uid: "bd578dd4",
+		type: "item",
+		items: [{
+			item: "minecraft:leather"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "ca6dd20e",
+		type: "item",
+		item: "openblocks:hang_glider"
+	}]
+}

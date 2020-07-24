@@ -1,0 +1,31 @@
+{
+	title: "Big Brother is Always Watching",
+	icon: "minecraft:skull",
+	x: -12.5d,
+	y: -6.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"681237cd"
+	],
+	tasks: [{
+		uid: "3dff1bd1",
+		type: "kill",
+		entity: "minecraft:skeleton",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "41e6ef38",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 2s,
+					id: 17
+				}]
+			}
+		}
+	}]
+}

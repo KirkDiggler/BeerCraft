@@ -1,0 +1,55 @@
+{
+	title: "Cant Stick Around Here Forever",
+	icon: "twilightforest:miniature_structure",
+	x: 3.0d,
+	y: -5.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"e7d83e56"
+	],
+	tasks: [{
+		uid: "a86b7fdc",
+		type: "item",
+		items: [{
+			item: "minecraft:flint_and_steel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d203fe19",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 14L
+	}],
+	rewards: [{
+		uid: "8cc9f6f8",
+		type: "item",
+		item: "chisel:netherbrick 1 8",
+		count: 32
+	},
+	{
+		uid: "b0068ca0",
+		type: "item",
+		item: "netherex:obsidian_boat"
+	},
+	{
+		uid: "18cc401a",
+		type: "item",
+		item: {
+			id: "rustic:elixir",
+			tag: {
+				ElixirEffects: [{
+					Effect: "minecraft:fire_resistance",
+					Duration: 9600,
+					Amplifier: 0
+				}]
+			}
+		},
+		count: 10
+	}]
+}

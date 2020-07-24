@@ -1,0 +1,29 @@
+{
+	title: "How Bad Do You Want It?",
+	icon: "minecraft:nether_star",
+	x: 12.0d,
+	y: -7.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"a22ae36b",
+		"e7d83e56"
+	],
+	tasks: [{
+		uid: "6d3e3e28",
+		type: "kill",
+		entity: "minecraft:zombie_pigman",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "dea5bb3e",
+		type: "item",
+		item: "extrautils2:snowglobe"
+	},
+	{
+		uid: "bb8f2fa4",
+		type: "item",
+		item: "cyclicmagic:soulstone"
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	title: "Cooking May Be More Your Speed",
+	icon: "harvestcraft:holidaycakeitem",
+	x: -10.5d,
+	y: -11.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"50dfbaa1"
+	],
+	tasks: [{
+		uid: "5423f5e2",
+		type: "stat",
+		icon: "minecraft:skull 1 3",
+		stat: "stat.deaths",
+		value: 10
+	}],
+	rewards: [{
+		uid: "1d31018c",
+		type: "item",
+		team_reward: false,
+		item: "cookingforblockheads:recipe_book 1 1"
+	}]
+}

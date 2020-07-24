@@ -1,0 +1,54 @@
+{
+	title: "King of The Zombies",
+	x: -0.5d,
+	y: -8.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"d4133dc0"
+	],
+	tasks: [{
+		uid: "e5316117",
+		type: "kill",
+		icon: "ebwizardry:charm_minion_health",
+		entity: "minecraft:zombie",
+		value: 100000L
+	}],
+	rewards: [{
+		uid: "e31e735b",
+		type: "item",
+		item: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:zombie_horse"
+			}
+		}
+	},
+	{
+		uid: "d97bcbdf",
+		type: "item",
+		item: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:zombie_pigman"
+			}
+		}
+	},
+	{
+		uid: "66570ac9",
+		type: "item",
+		item: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:zombie_villager"
+			}
+		}
+	},
+	{
+		uid: "bb079d53",
+		type: "item",
+		item: "harvestcraft:zombiejerkyitem",
+		count: 64
+	}]
+}

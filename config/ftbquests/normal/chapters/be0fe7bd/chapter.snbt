@@ -1,0 +1,7 @@
+{
+	title: "Ice and Fire",
+	icon: "iceandfire:dragonarmor_gold",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

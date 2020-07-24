@@ -1,0 +1,32 @@
+{
+	title: "If Only There Was A Way To Combine These Two",
+	x: 6.5d,
+	y: -5.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"22b00cc6"
+	],
+	tasks: [{
+		uid: "4dc1d7d9",
+		type: "item",
+		items: [{
+			item: "tconstruct:ore"
+		}],
+		count: 24L
+	},
+	{
+		uid: "5821577d",
+		type: "item",
+		items: [{
+			item: "tconstruct:ore 1 1"
+		}],
+		count: 24L
+	}],
+	rewards: [{
+		uid: "964eebc5",
+		type: "item",
+		item: "tconstruct:metal 1 2"
+	}]
+}

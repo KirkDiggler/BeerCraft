@@ -1,0 +1,45 @@
+{
+	title: "There Comin Right For Us",
+	icon: {
+		id: "openblocks:trophy",
+		tag: {
+			entity_id: "minecraft:zombie"
+		}
+	},
+	x: -9.5d,
+	y: -8.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"edaf5e0a"
+	],
+	tasks: [{
+		uid: "80c04b3f",
+		type: "kill",
+		icon: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:zombie"
+			}
+		},
+		entity: "minecraft:zombie",
+		value: 1000L
+	}],
+	rewards: [{
+		uid: "9a7e4d20",
+		type: "item",
+		item: "harvestcraft:zombiejerkyitem",
+		count: 32
+	},
+	{
+		uid: "c05347a1",
+		type: "item",
+		item: {
+			id: "openblocks:trophy",
+			tag: {
+				entity_id: "minecraft:zombie"
+			}
+		}
+	}]
+}

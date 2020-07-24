@@ -1,0 +1,51 @@
+{
+	title: "Farmin Aint Easy",
+	x: -9.5d,
+	y: -7.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"85cd949f"
+	],
+	tasks: [{
+		uid: "95c518ba",
+		type: "item",
+		items: [{
+			item: "minecraft:potato"
+		}],
+		count: 32L
+	},
+	{
+		uid: "e76dd951",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat"
+		}],
+		count: 32L
+	},
+	{
+		uid: "61e7d633",
+		type: "item",
+		items: [{
+			item: "minecraft:carrot"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "b104601b",
+		type: "item",
+		item: "harvestcraft:grilledcheeseitem"
+	},
+	{
+		uid: "2cb52075",
+		type: "item",
+		item: "harvestcraft:carrotcupcakeitem"
+	},
+	{
+		uid: "ad65edc5",
+		type: "item",
+		item: "harvestcraft:potatosaladitem",
+		count: 3
+	}]
+}

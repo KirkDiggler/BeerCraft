@@ -1,0 +1,77 @@
+{
+	title: "Flower Power",
+	x: -5.5d,
+	y: 1.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"2687aa72"
+	],
+	tasks: [{
+		uid: "dba22f7b",
+		type: "item",
+		items: [{
+			item: "minecraft:red_flower"
+		}]
+	},
+	{
+		uid: "2472c0c0",
+		type: "item",
+		items: [{
+			item: "minecraft:yellow_flower"
+		}]
+	},
+	{
+		uid: "cd9be0cb",
+		type: "item",
+		items: [{
+			item: "minecraft:red_flower 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "5f187746",
+		type: "item",
+		item: "minecraft:dye 1 1"
+	},
+	{
+		uid: "43069775",
+		type: "item",
+		item: "minecraft:dye 1 11"
+	},
+	{
+		uid: "022452c0",
+		type: "item",
+		item: "minecraft:dye 1 12"
+	},
+	{
+		uid: "976e6a02",
+		type: "item",
+		item: "minecraft:dye 1 2"
+	},
+	{
+		uid: "ca80dac4",
+		type: "item",
+		item: "minecraft:dye 1 9"
+	},
+	{
+		uid: "d26b0540",
+		type: "item",
+		item: "minecraft:dye 1 10"
+	},
+	{
+		uid: "17528907",
+		type: "item",
+		item: "minecraft:dye 1 5"
+	},
+	{
+		uid: "e404f883",
+		type: "item",
+		item: "minecraft:dye 1 6"
+	},
+	{
+		uid: "3ea390fb",
+		type: "item",
+		item: "minecraft:dye 1 14"
+	}]
+}

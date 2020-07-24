@@ -1,0 +1,97 @@
+{
+	title: "All Day long, Boss Man Say",
+	x: -9.5d,
+	y: 1.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"7c6890c7"
+	],
+	tasks: [{
+		uid: "a2f73bb4",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat_seeds"
+		}],
+		count: 24L
+	},
+	{
+		uid: "b8326517",
+		type: "item",
+		items: [{
+			item: "minecraft:melon_seeds"
+		}]
+	},
+	{
+		uid: "c49bcd56",
+		type: "item",
+		items: [{
+			item: "minecraft:pumpkin_seeds"
+		}]
+	}],
+	rewards: [{
+		uid: "ce7467c1",
+		type: "item",
+		item: {
+			id: "tconstruct:scythe",
+			tag: {
+				StatsOriginal: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 530,
+					HarvestLevel: 1,
+					Attack: 3.4f
+				},
+				Stats: {
+					AttackSpeedMultiplier: 1.0f,
+					MiningSpeed: 4.0f,
+					FreeModifiers: 3,
+					Durability: 530,
+					HarvestLevel: 1,
+					Attack: 3.4f
+				},
+				Special: {
+					Categories: [
+						"aoe",
+						"weapon",
+						"harvest",
+						"tool"
+					]
+				},
+				TinkerData: {
+					Materials: [
+						"cactus",
+						"cactus",
+						"cactus",
+						"cactus"
+					],
+					Modifiers: [
+						"toolleveling"
+					]
+				},
+				Modifiers: [{
+					identifier: "spiky",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "prickly",
+					color: -16735985,
+					level: 1
+				},
+				{
+					identifier: "toolleveling",
+					color: 16777215,
+					level: 1
+				}],
+				Traits: [
+					"spiky",
+					"prickly",
+					"toolleveling"
+				]
+			}
+		}
+	}]
+}

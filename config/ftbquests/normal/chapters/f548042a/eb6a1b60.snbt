@@ -1,0 +1,49 @@
+{
+	title: "Cut, Shape, Build!",
+	x: -1.0d,
+	y: 1.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"9e3ca8bc"
+	],
+	tasks: [{
+		uid: "640147b4",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}]
+	},
+	{
+		uid: "4e7fbcfc",
+		type: "item",
+		title: "Any Part Builder",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fd005167",
+		type: "item",
+		item: "tconstruct:pattern",
+		count: 6
+	}]
+}

@@ -1,0 +1,82 @@
+{
+	title: "Back To Basics",
+	x: -3.0d,
+	y: -7.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"192b22da"
+	],
+	tasks: [{
+		uid: "3c9cee2f",
+		type: "item",
+		title: "Get A Woody",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}],
+		count: 64L
+	},
+	{
+		uid: "9397c8fd",
+		type: "item",
+		items: [{
+			item: "minecraft:cobblestone"
+		}],
+		count: 64L
+	},
+	{
+		uid: "bb0ef97f",
+		type: "item",
+		items: [{
+			item: "minecraft:sand"
+		}],
+		count: 64L
+	},
+	{
+		uid: "b313ba58",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}],
+		count: 32L
+	},
+	{
+		uid: "503a80d4",
+		type: "item",
+		items: [{
+			item: "minecraft:clay_ball"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "48991d34",
+		type: "item",
+		item: "minecraft:glass",
+		count: 24
+	},
+	{
+		uid: "862c12c5",
+		type: "item",
+		item: "minecraft:brick_block",
+		count: 32
+	},
+	{
+		uid: "8cf2d65d",
+		type: "item",
+		item: "minecraft:stone",
+		count: 32
+	},
+	{
+		uid: "c6dfe358",
+		type: "item",
+		item: "minecraft:stained_hardened_clay",
+		count: 26
+	}]
+}

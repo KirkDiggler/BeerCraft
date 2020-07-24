@@ -1,0 +1,68 @@
+{
+	title: "Building The Smelter",
+	x: -1.0d,
+	y: -4.0d,
+	shape: "hexagon",
+	text: [
+		""
+	],
+	dependencies: [
+		"9e3ca8bc"
+	],
+	tasks: [{
+		uid: "ebd3f237",
+		type: "item",
+		items: [{
+			item: "tconstruct:seared_tank"
+		}]
+	},
+	{
+		uid: "f99364a5",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	},
+	{
+		uid: "6d7e9d15",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting"
+		}]
+	},
+	{
+		uid: "5127363b",
+		type: "item",
+		items: [{
+			item: "tconstruct:casting 1 1"
+		}]
+	},
+	{
+		uid: "475566c2",
+		type: "item",
+		items: [{
+			item: "tconstruct:faucet"
+		}],
+		count: 2L
+	},
+	{
+		uid: "b707f77a",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_io"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "82ab76dc",
+		type: "xp_levels",
+		team_reward: false,
+		xp_levels: 5
+	},
+	{
+		uid: "63ed1546",
+		type: "item",
+		team_reward: false,
+		item: "minecraft:lava_bucket"
+	}]
+}
