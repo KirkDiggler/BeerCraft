@@ -26,8 +26,19 @@ recipes.removeShaped(<dungeontactics:steel_shovel>, [[<ore:ingotSteel>], [<minec
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<libvulpes:ore0:8>, [<ore:clusterTitanium>]);
+recipes.addShapeless(<thermalfoundation:ore:5>, [<dungeontactics:nickel_cluster>]);
+recipes.addShapeless(<mekanism:oreblock>, [<dungeontactics:osmium_cluster>]);
+recipes.addShapeless(<thermalfoundation:ore:4>, [<dungeontactics:aluminium_cluster>]);
+recipes.addShapeless(<thermalfoundation:ore:3>, [<dungeontactics:lead_cluster>]);
+recipes.addShapeless(<thermalfoundation:ore:2>, [<dungeontactics:silver_cluster>]);
+recipes.addShapeless(<thermalfoundation:ore:6>, [<ore:clusterPlatinum>]);
+recipes.addShapeless(<thermalfoundation:ore>, [<dungeontactics:copper_cluster>]);
+recipes.addShapeless(<minecraft:gold_ore>, [<dungeontactics:gold_cluster>]);
+recipes.addShapeless(<prefab:block_compressed_stone:5>, [<ore:compressed1xDirt>]);
 recipes.addShapeless(<thermalfoundation:material:160>, [<ore:ingotIron>, <minecraft:coal>]);
 recipes.addShapeless(<minecraft:iron_ore>, [<ore:clusterIron>]);
+recipes.addShapeless(<thermalfoundation:ore:1>, [[<ore:clusterTin>]]);
 recipes.addShapeless(<minecraft:iron_ore>, [<dungeontactics:iron_cluster>]);
 
 // ================================================================================
