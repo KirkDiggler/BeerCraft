@@ -38,7 +38,7 @@ recipes.addShapeless(<minecraft:gold_ore>, [<dungeontactics:gold_cluster>]);
 recipes.addShapeless(<prefab:block_compressed_stone:5>, [<ore:compressed1xDirt>]);
 recipes.addShapeless(<thermalfoundation:material:160>, [<ore:ingotIron>, <minecraft:coal>]);
 recipes.addShapeless(<minecraft:iron_ore>, [<ore:clusterIron>]);
-recipes.addShapeless(<thermalfoundation:ore:1>, [[<ore:clusterTin>]]);
+recipes.addShapeless(<thermalfoundation:ore:1>, [<dungeontactics:tin_cluster>]);
 recipes.addShapeless(<minecraft:iron_ore>, [<dungeontactics:iron_cluster>]);
 
 // ================================================================================
