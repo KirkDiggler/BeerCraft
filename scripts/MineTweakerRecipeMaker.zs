@@ -45,3 +45,6 @@ recipes.addShapeless(<minecraft:iron_ore>, [<dungeontactics:iron_cluster>]);
 //#MARKER ADD SHAPED
 recipes.addShaped(<railcraft:tool_shovel_steel>, [[null, null, <ore:ingotSteel>], [null, <ore:stickWood>, null], [<minecraft:stick>, null, null]]);
 
+// ================================================================================
+//#MARKER MEKANISM INFUSER
+mods.mekanism.infuser.addRecipe("DIAMOND", 20, <tconstruct:ingots:5>, <railcraft:ingot:9>);
