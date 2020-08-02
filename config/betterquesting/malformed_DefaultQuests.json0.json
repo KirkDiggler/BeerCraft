@@ -1185,6 +1185,23 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "ForgeCaps:10": {
+                "customnpcs:itemscripteddata:10": {}
+              },
+              "id:8": "minecraft:iron_ingot",
+              "Count:3": 16,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
       }
     },
     "10:10": {
@@ -1457,6 +1474,9 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+
       }
     },
     "11:10": {
@@ -2016,6 +2036,9 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+
       }
     },
     "15:10": {
@@ -3027,6 +3050,15 @@
         "0:10": {
           "index:3": 0,
           "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -6478,6 +6510,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "56:10": {
@@ -6543,6 +6584,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "57:10": {
@@ -6607,6 +6657,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -6907,6 +6966,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -7715,6 +7783,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -8755,6 +8832,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -16555,6 +16641,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "152:10": {
@@ -16748,6 +16843,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "154:10": {
@@ -16813,6 +16917,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "155:10": {
@@ -16877,6 +16990,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -16955,6 +17077,14 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
         }
       }
     },
@@ -17045,6 +17175,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "158:10": {
@@ -17109,6 +17248,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -17188,6 +17336,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "160:10": {
@@ -17252,6 +17409,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -17339,6 +17505,8 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
       }
     },
     "162:10": {
@@ -17403,6 +17571,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -17663,6 +17840,8 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
       }
     },
     "165:10": {
@@ -17778,7 +17957,7 @@
             }
           }
         },
-        "1:10": {
+        "2:10": {
           "rewardID:8": "bq_standard:item",
           "index:3": 2,
           "rewards:9": {
@@ -18064,6 +18243,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "169:10": {
@@ -18119,6 +18307,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -18184,6 +18381,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -18669,6 +18875,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "177:10": {
@@ -18725,6 +18940,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -18783,6 +19007,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "179:10": {
@@ -18839,6 +19072,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -18972,6 +19214,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "182:10": {
@@ -19013,6 +19264,15 @@
           "index:3": 0,
           "taskID:8": "bq_standard:checkbox"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "183:10": {
@@ -19053,6 +19313,15 @@
         "0:10": {
           "index:3": 0,
           "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -19120,6 +19389,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "185:10": {
@@ -19161,7 +19439,8 @@
           "index:3": 0,
           "taskID:8": "bq_standard:checkbox"
         }
-      }
+      },
+      "rewards:9": {}
     },
     "186:10": {
       "questID:3": 249,
@@ -19218,6 +19497,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -19438,6 +19726,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -19691,6 +19988,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "193:10": {
@@ -19825,6 +20131,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -21119,6 +21434,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "206:10": {
@@ -21184,6 +21508,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -21263,6 +21596,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -21370,6 +21712,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "209:10": {
@@ -21462,6 +21813,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "210:10": {
@@ -21527,6 +21887,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -21607,6 +21976,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "212:10": {
@@ -21673,6 +22051,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "213:10": {
@@ -21728,6 +22115,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -21795,6 +22191,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "215:10": {
@@ -21860,6 +22265,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -21927,6 +22341,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "217:10": {
@@ -21993,6 +22416,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "218:10": {
@@ -22058,6 +22490,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -22138,6 +22579,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -22244,6 +22694,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "221:10": {
@@ -22311,6 +22770,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "222:10": {
@@ -22376,6 +22844,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -22457,6 +22934,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "224:10": {
@@ -22520,6 +23006,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -22586,6 +23081,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -22665,6 +23169,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -22832,6 +23345,25 @@
           "index:3": 1,
           "taskID:8": "bq_standard:checkbox"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        },
+        "1:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "asScript:1": 1,
+          "description:8": "Run a command script",
+          "viaPlayer:1": 0,
+          "index:3": 1,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/say VAR_NAME has begun the IndustrialCraft questline!"
+        }
       }
     },
     "230:10": {
@@ -22897,6 +23429,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "231:10": {
@@ -22961,6 +23502,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -23029,6 +23579,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "233:10": {
@@ -23086,6 +23645,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "234:10": {
@@ -23142,6 +23710,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -23218,6 +23795,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "236:10": {
@@ -23258,6 +23844,15 @@
         "0:10": {
           "index:3": 0,
           "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -23315,6 +23910,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -23381,6 +23985,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -23536,6 +24149,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "241:10": {
@@ -23676,6 +24298,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "243:10": {
@@ -23732,6 +24363,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -23900,6 +24540,15 @@
           "index:3": 0,
           "taskID:8": "bq_standard:checkbox"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "246:10": {
@@ -23965,6 +24614,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -24151,6 +24809,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "249:10": {
@@ -24207,6 +24874,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -24750,6 +25426,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "256:10": {
@@ -24881,6 +25566,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "258:10": {
@@ -24938,6 +25632,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -24997,6 +25700,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -25248,6 +25960,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "263:10": {
@@ -25310,6 +26031,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -25375,6 +26105,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -25597,6 +26336,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "268:10": {
@@ -25672,6 +26420,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "269:10": {
@@ -25734,6 +26491,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -25798,6 +26564,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "271:10": {
@@ -25861,6 +26636,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "272:10": {
@@ -25923,6 +26707,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -26098,6 +26891,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "274:10": {
@@ -26155,6 +26957,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "275:10": {
@@ -26211,6 +27022,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -26274,6 +27094,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -26341,6 +27170,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "278:10": {
@@ -26407,6 +27245,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "279:10": {
@@ -26463,6 +27310,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -26530,6 +27386,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "281:10": {
@@ -26586,6 +27451,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -26674,6 +27548,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "283:10": {
@@ -26748,6 +27631,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -26824,6 +27716,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "285:10": {
@@ -26887,6 +27788,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "286:10": {
@@ -26943,6 +27853,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -27019,6 +27938,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "288:10": {
@@ -27083,6 +28011,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -27185,6 +28122,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "290:10": {
@@ -27241,6 +28187,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -27305,6 +28260,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "292:10": {
@@ -27361,6 +28325,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -27419,6 +28392,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -27485,6 +28467,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "295:10": {
@@ -27548,6 +28539,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "296:10": {
@@ -27610,6 +28610,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -27680,6 +28689,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -27791,6 +28809,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -27959,6 +28986,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "301:10": {
@@ -28021,6 +29057,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -28093,6 +29138,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "303:10": {
@@ -28157,6 +29211,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -28238,6 +29301,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "305:10": {
@@ -28309,6 +29381,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "306:10": {
@@ -28359,6 +29440,15 @@
           "dimension:3": 1,
           "taxiCabDist:1": 0,
           "taskID:8": "bq_standard:location"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -28424,6 +29514,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -28503,6 +29602,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "309:10": {
@@ -28568,6 +29676,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "310:10": {
@@ -28632,6 +29749,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -28707,6 +29833,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "312:10": {
@@ -28775,6 +29910,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "313:10": {
@@ -28839,6 +29983,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -28998,6 +30151,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "316:10": {
@@ -29063,6 +30225,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "317:10": {
@@ -29119,6 +30290,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -29185,6 +30365,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "319:10": {
@@ -29250,6 +30439,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "320:10": {
@@ -29312,6 +30510,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -29513,6 +30720,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "323:10": {
@@ -29605,6 +30821,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "324:10": {
@@ -29669,6 +30894,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -29820,6 +31054,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -29982,6 +31225,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "329:10": {
@@ -30048,6 +31300,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -30343,6 +31604,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "333:10": {
@@ -30412,6 +31682,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -30586,6 +31865,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "336:10": {
@@ -30650,6 +31938,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -30716,6 +32013,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "338:10": {
@@ -30780,6 +32086,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -31084,6 +32399,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "342:10": {
@@ -31223,6 +32547,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -31364,6 +32697,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "344:10": {
@@ -31504,6 +32846,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "345:10": {
@@ -31571,6 +32922,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "346:10": {
@@ -31635,6 +32995,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -31714,6 +33083,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "348:10": {
@@ -31778,6 +33156,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -31845,6 +33232,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "350:10": {
@@ -31909,6 +33305,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -32080,6 +33485,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "353:10": {
@@ -32147,6 +33561,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "354:10": {
@@ -32211,6 +33634,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -32289,6 +33721,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -32374,6 +33815,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "357:10": {
@@ -32457,6 +33907,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -32542,6 +34001,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "359:10": {
@@ -32626,6 +34094,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "360:10": {
@@ -32699,6 +34176,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "361:10": {
@@ -32763,6 +34249,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -32829,6 +34324,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "363:10": {
@@ -32893,6 +34397,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -32959,6 +34472,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "365:10": {
@@ -33023,6 +34545,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -33089,6 +34620,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "367:10": {
@@ -33154,6 +34694,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "368:10": {
@@ -33218,6 +34767,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -33297,6 +34855,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "370:10": {
@@ -33361,6 +34928,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -33427,6 +35003,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "372:10": {
@@ -33492,6 +35077,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "373:10": {
@@ -33556,6 +35150,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -33623,6 +35226,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "375:10": {
@@ -33665,6 +35277,25 @@
         "0:10": {
           "index:3": 0,
           "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        },
+        "1:10": {
+          "hideBlockIcon:1": 1,
+          "rewardID:8": "bq_standard:command",
+          "asScript:1": 1,
+          "description:8": "Run a command script",
+          "viaPlayer:1": 0,
+          "index:3": 1,
+          "title:8": "bq_standard.reward.command",
+          "command:8": "/say VAR_NAME has begun the Forestry questline!"
         }
       }
     },
@@ -33744,6 +35375,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "377:10": {
@@ -33808,6 +35448,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -33875,6 +35524,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "379:10": {
@@ -33940,6 +35598,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "380:10": {
@@ -34004,6 +35671,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -34071,6 +35747,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "382:10": {
@@ -34135,6 +35820,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -34384,6 +36078,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "386:10": {
@@ -34440,6 +36143,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -34498,6 +36210,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "388:10": {
@@ -34554,6 +36275,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -34612,6 +36342,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "390:10": {
@@ -34668,6 +36407,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -34735,6 +36483,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "392:10": {
@@ -34791,6 +36548,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -34935,6 +36701,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "395:10": {
@@ -35032,6 +36807,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "396:10": {
@@ -35088,6 +36872,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -35146,6 +36939,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "398:10": {
@@ -35202,6 +37004,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -35260,6 +37071,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "400:10": {
@@ -35316,6 +37136,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -35374,6 +37203,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "402:10": {
@@ -35431,6 +37269,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "403:10": {
@@ -35487,6 +37334,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -35611,6 +37467,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "406:10": {
@@ -35677,6 +37542,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "407:10": {
@@ -35733,6 +37607,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -35791,6 +37674,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "409:10": {
@@ -35847,6 +37739,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -35905,6 +37806,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "411:10": {
@@ -35962,6 +37872,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "412:10": {
@@ -36018,6 +37937,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -36077,6 +38005,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "414:10": {
@@ -36133,6 +38070,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -36191,6 +38137,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -36315,6 +38270,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "418:10": {
@@ -36371,6 +38335,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -36429,6 +38402,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "420:10": {
@@ -36486,6 +38468,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "421:10": {
@@ -36542,6 +38533,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -36618,6 +38618,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "423:10": {
@@ -36684,6 +38693,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "424:10": {
@@ -36740,6 +38758,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -36798,6 +38825,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "426:10": {
@@ -36854,6 +38890,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -36912,6 +38957,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "428:10": {
@@ -36968,6 +39022,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -37026,6 +39089,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "430:10": {
@@ -37082,6 +39154,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -37140,6 +39221,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "432:10": {
@@ -37196,6 +39286,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -37336,6 +39435,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "435:10": {
@@ -37401,6 +39509,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "436:10": {
@@ -37465,6 +39582,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -37537,6 +39663,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "438:10": {
@@ -37607,6 +39742,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -37691,6 +39835,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "440:10": {
@@ -37755,6 +39908,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -37821,6 +39983,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "442:10": {
@@ -37885,6 +40056,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -37951,6 +40131,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "444:10": {
@@ -38016,6 +40205,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "445:10": {
@@ -38080,6 +40278,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -38147,6 +40354,9 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+
       }
     },
     "447:10": {
@@ -38212,6 +40422,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "448:10": {
@@ -38276,6 +40495,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -38343,6 +40571,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "450:10": {
@@ -38407,6 +40644,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -38493,6 +40739,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "452:10": {
@@ -38557,6 +40812,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -38623,6 +40887,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -38712,6 +40985,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "455:10": {
@@ -38776,6 +41058,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -38946,6 +41237,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "458:10": {
@@ -39030,6 +41330,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -39116,6 +41425,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "460:10": {
@@ -39200,6 +41518,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -39286,6 +41613,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "462:10": {
@@ -39370,6 +41706,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -39456,6 +41801,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "464:10": {
@@ -39541,6 +41895,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "465:10": {
@@ -39609,6 +41972,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -39679,6 +42051,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "467:10": {
@@ -39747,6 +42128,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -39817,6 +42207,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "469:10": {
@@ -39886,6 +42285,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "470:10": {
@@ -39954,6 +42362,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -40040,6 +42457,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "472:10": {
@@ -40124,6 +42550,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -40210,6 +42645,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "474:10": {
@@ -40294,6 +42738,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -40384,6 +42837,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "476:10": {
@@ -40466,6 +42928,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -40550,6 +43021,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "478:10": {
@@ -40633,6 +43113,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "479:10": {
@@ -40690,6 +43179,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "480:10": {
@@ -40746,6 +43244,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -40831,6 +43338,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "482:10": {
@@ -40887,6 +43403,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -40945,6 +43470,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "484:10": {
@@ -41001,6 +43535,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -41061,6 +43604,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "486:10": {
@@ -41117,6 +43669,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -41175,6 +43736,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "488:10": {
@@ -41231,6 +43801,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -41289,6 +43868,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "490:10": {
@@ -41345,6 +43933,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -41403,6 +44000,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "492:10": {
@@ -41459,6 +44065,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -41517,6 +44132,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "494:10": {
@@ -41573,6 +44197,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -41631,6 +44264,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "496:10": {
@@ -41687,6 +44329,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -41745,6 +44396,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "498:10": {
@@ -41801,6 +44461,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -41859,6 +44528,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "500:10": {
@@ -41915,6 +44593,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -41982,6 +44669,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "502:10": {
@@ -42038,6 +44734,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -42096,6 +44801,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "504:10": {
@@ -42153,6 +44867,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "505:10": {
@@ -42209,6 +44932,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -42268,6 +45000,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "507:10": {
@@ -42324,6 +45065,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -42391,6 +45141,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "509:10": {
@@ -42447,6 +45206,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -42514,6 +45282,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "511:10": {
@@ -42580,6 +45357,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "512:10": {
@@ -42636,6 +45422,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -42694,6 +45489,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "514:10": {
@@ -42751,6 +45555,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "515:10": {
@@ -42807,6 +45620,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -42873,6 +45695,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "517:10": {
@@ -42929,6 +45760,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -42987,6 +45827,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "519:10": {
@@ -43043,6 +45892,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -43109,6 +45967,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "521:10": {
@@ -43173,6 +46040,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -43239,6 +46115,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "523:10": {
@@ -43303,6 +46188,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -43369,6 +46263,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "525:10": {
@@ -43434,6 +46337,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "526:10": {
@@ -43498,6 +46410,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -43634,6 +46555,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "528:10": {
@@ -43699,6 +46629,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "529:10": {
@@ -43763,6 +46702,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -43888,6 +46836,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "531:10": {
@@ -43952,6 +46909,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -44018,6 +46984,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -44171,6 +47146,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "534:10": {
@@ -44237,6 +47221,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "535:10": {
@@ -44301,6 +47294,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -44377,6 +47379,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "537:10": {
@@ -44433,6 +47444,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -44491,6 +47511,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "539:10": {
@@ -44547,6 +47576,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -44605,6 +47643,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "541:10": {
@@ -44661,6 +47708,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -44746,6 +47802,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "543:10": {
@@ -44815,6 +47880,9 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+
       }
     },
     "544:10": {
@@ -44878,6 +47946,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "545:10": {
@@ -44934,6 +48011,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -44992,6 +48078,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "547:10": {
@@ -45048,6 +48143,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -45112,6 +48216,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "549:10": {
@@ -45168,6 +48281,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -45226,6 +48348,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "551:10": {
@@ -45282,6 +48413,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -45349,6 +48489,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "553:10": {
@@ -45412,6 +48561,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "554:10": {
@@ -45468,6 +48626,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -45526,6 +48693,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "556:10": {
@@ -45582,6 +48758,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -45667,6 +48852,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "558:10": {
@@ -45750,6 +48944,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -45835,6 +49038,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "560:10": {
@@ -45892,6 +49104,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "561:10": {
@@ -45948,6 +49169,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -46012,6 +49242,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "563:10": {
@@ -46074,6 +49313,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -46138,6 +49386,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "565:10": {
@@ -46194,6 +49451,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -46252,6 +49518,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "567:10": {
@@ -46309,6 +49584,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -46376,6 +49660,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "569:10": {
@@ -46433,6 +49726,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "570:10": {
@@ -46489,6 +49791,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -46618,6 +49929,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "573:10": {
@@ -46680,6 +50000,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -46744,6 +50073,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "575:10": {
@@ -46800,6 +50138,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -46864,6 +50211,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "577:10": {
@@ -46920,6 +50276,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -46978,6 +50343,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "579:10": {
@@ -47035,6 +50409,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "580:10": {
@@ -47091,6 +50474,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -47155,6 +50547,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "582:10": {
@@ -47217,6 +50618,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -47281,6 +50691,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "584:10": {
@@ -47343,6 +50762,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -47407,6 +50835,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "586:10": {
@@ -47469,6 +50906,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -47533,6 +50979,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "588:10": {
@@ -47595,6 +51050,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -47659,6 +51123,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "590:10": {
@@ -47721,6 +51194,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -47785,6 +51267,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "592:10": {
@@ -47847,6 +51338,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -47911,6 +51411,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "594:10": {
@@ -47973,6 +51482,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -48037,6 +51555,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "596:10": {
@@ -48094,6 +51621,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "597:10": {
@@ -48150,6 +51686,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -48210,6 +51755,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -48276,6 +51830,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -48422,7 +51985,9 @@
         "0:10": {
           "rewardID:8": "bq_standard:item",
           "index:3": 0,
-          "rewards:9": {}
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -48486,7 +52051,9 @@
         "0:10": {
           "rewardID:8": "bq_standard:item",
           "index:3": 0,
-          "rewards:9": {}
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -48564,7 +52131,9 @@
         "0:10": {
           "rewardID:8": "bq_standard:item",
           "index:3": 0,
-          "rewards:9": {}
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -48628,6 +52197,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -48815,6 +52393,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "608:10": {
@@ -48883,7 +52470,9 @@
         "0:10": {
           "rewardID:8": "bq_standard:item",
           "index:3": 0,
-          "rewards:9": {}
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -48948,6 +52537,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "610:10": {
@@ -49007,6 +52605,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "611:10": {
@@ -49063,6 +52670,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -49121,6 +52737,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "613:10": {
@@ -49177,6 +52802,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -49235,6 +52869,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "615:10": {
@@ -49291,6 +52934,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -49355,6 +53007,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "617:10": {
@@ -49412,6 +53073,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "618:10": {
@@ -49468,6 +53138,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -49544,6 +53223,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "620:10": {
@@ -49600,6 +53288,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -49658,6 +53355,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "622:10": {
@@ -49714,6 +53420,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -49790,6 +53505,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "624:10": {
@@ -49856,6 +53580,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "625:10": {
@@ -49912,6 +53645,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -49970,6 +53712,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "627:10": {
@@ -50026,6 +53777,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -50090,6 +53850,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "629:10": {
@@ -50152,6 +53921,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -50216,6 +53994,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "631:10": {
@@ -50278,6 +54065,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -50342,6 +54138,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "633:10": {
@@ -50404,6 +54209,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -50468,6 +54282,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "635:10": {
@@ -50531,6 +54354,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "636:10": {
@@ -50593,6 +54425,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -50662,7 +54503,9 @@
         "0:10": {
           "rewardID:8": "bq_standard:item",
           "index:3": 0,
-          "rewards:9": {}
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -50785,6 +54628,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "640:10": {
@@ -50848,6 +54700,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "641:10": {
@@ -50904,6 +54765,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -51041,6 +54911,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "644:10": {
@@ -51105,7 +54984,9 @@
         "0:10": {
           "rewardID:8": "bq_standard:item",
           "index:3": 0,
-          "rewards:9": {}
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -51166,6 +55047,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "646:10": {
@@ -51222,6 +55112,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -51282,6 +55181,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "648:10": {
@@ -51340,6 +55248,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "649:10": {
@@ -51396,6 +55313,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -51454,6 +55380,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "651:10": {
@@ -51510,6 +55445,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -51584,6 +55528,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "653:10": {
@@ -51648,6 +55601,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -51714,6 +55676,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "655:10": {
@@ -51770,6 +55741,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -51828,6 +55808,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "657:10": {
@@ -51868,6 +55857,15 @@
         "0:10": {
           "index:3": 0,
           "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -51960,6 +55958,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "659:10": {
@@ -52026,6 +56033,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -52111,6 +56127,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "661:10": {
@@ -52175,6 +56200,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -52241,6 +56275,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "663:10": {
@@ -52300,6 +56343,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "664:10": {
@@ -52356,6 +56408,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -52421,6 +56482,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -52524,6 +56594,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "667:10": {
@@ -52625,6 +56704,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -52746,6 +56834,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "669:10": {
@@ -52848,6 +56945,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "670:10": {
@@ -52906,6 +57012,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -53008,6 +57123,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -53129,6 +57253,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "673:10": {
@@ -53230,6 +57363,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -53351,6 +57493,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "675:10": {
@@ -53408,6 +57559,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "676:10": {
@@ -53464,6 +57624,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -53549,6 +57718,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -53644,6 +57822,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "679:10": {
@@ -53700,6 +57887,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -53759,6 +57955,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "681:10": {
@@ -53815,6 +58020,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -53956,6 +58170,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "684:10": {
@@ -54012,6 +58235,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -54078,6 +58310,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -54173,6 +58414,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "687:10": {
@@ -54229,6 +58479,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -54332,6 +58591,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "689:10": {
@@ -54389,6 +58657,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "690:10": {
@@ -54445,6 +58722,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -54558,6 +58844,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "693:10": {
@@ -54615,6 +58910,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "694:10": {
@@ -54671,6 +58975,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -54871,6 +59184,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "698:10": {
@@ -54935,6 +59257,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -55002,6 +59333,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "700:10": {
@@ -55067,6 +59407,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -55134,6 +59483,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "702:10": {
@@ -55200,6 +59558,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "703:10": {
@@ -55264,6 +59631,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -55330,6 +59706,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "705:10": {
@@ -55395,6 +59780,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "706:10": {
@@ -55459,6 +59853,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -55526,6 +59929,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "708:10": {
@@ -55591,6 +60003,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -55658,6 +60079,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "710:10": {
@@ -55723,6 +60153,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -55790,6 +60229,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "712:10": {
@@ -55854,6 +60302,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -55920,6 +60377,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "714:10": {
@@ -55985,6 +60451,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "715:10": {
@@ -56049,6 +60524,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -56116,6 +60600,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "717:10": {
@@ -56181,6 +60674,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -56248,6 +60750,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "719:10": {
@@ -56313,6 +60824,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -56380,6 +60900,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "721:10": {
@@ -56445,6 +60974,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -56512,6 +61050,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "723:10": {
@@ -56577,6 +61124,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -56644,6 +61200,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "725:10": {
@@ -56710,6 +61275,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "726:10": {
@@ -56774,6 +61348,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -56840,6 +61423,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "728:10": {
@@ -56904,6 +61496,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -56971,6 +61572,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "730:10": {
@@ -57036,6 +61646,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "731:10": {
@@ -57100,6 +61719,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -57167,6 +61795,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "733:10": {
@@ -57231,6 +61868,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -57297,6 +61943,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "735:10": {
@@ -57361,6 +62016,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -57427,6 +62091,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "737:10": {
@@ -57491,6 +62164,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -57557,6 +62239,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "739:10": {
@@ -57621,6 +62312,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -57687,6 +62387,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "741:10": {
@@ -57751,6 +62460,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -57817,6 +62535,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "743:10": {
@@ -57881,6 +62608,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -57947,6 +62683,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "745:10": {
@@ -58012,6 +62757,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "746:10": {
@@ -58076,6 +62830,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -58143,6 +62906,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "748:10": {
@@ -58208,6 +62980,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "749:10": {
@@ -58272,6 +63053,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -58339,6 +63129,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "751:10": {
@@ -58405,6 +63204,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "752:10": {
@@ -58469,6 +63277,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -58584,6 +63401,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "755:10": {
@@ -58640,6 +63466,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -58698,6 +63533,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "757:10": {
@@ -58754,6 +63598,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -58812,6 +63665,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "759:10": {
@@ -58868,6 +63730,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -58926,6 +63797,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "761:10": {
@@ -58982,6 +63862,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -59040,6 +63929,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "763:10": {
@@ -59096,6 +63994,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -59154,6 +64061,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "765:10": {
@@ -59210,6 +64126,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -59268,6 +64193,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "767:10": {
@@ -59324,6 +64258,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -59382,6 +64325,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "769:10": {
@@ -59438,6 +64390,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -59496,6 +64457,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "771:10": {
@@ -59552,6 +64522,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -59610,6 +64589,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "773:10": {
@@ -59666,6 +64654,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -59724,6 +64721,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "775:10": {
@@ -59781,6 +64787,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "776:10": {
@@ -59837,6 +64852,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -59896,6 +64920,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "778:10": {
@@ -59954,6 +64987,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "779:10": {
@@ -60010,6 +65052,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -60068,6 +65119,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "781:10": {
@@ -60124,6 +65184,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -60182,6 +65251,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "783:10": {
@@ -60238,6 +65316,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -60877,6 +65964,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "791:10": {
@@ -60943,6 +66039,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -61011,6 +66116,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "793:10": {
@@ -61077,6 +66191,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -61145,6 +66268,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "795:10": {
@@ -61212,6 +66344,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "796:10": {
@@ -61276,6 +66417,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -61348,6 +66498,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "798:10": {
@@ -61412,6 +66571,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -61484,6 +66652,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "800:10": {
@@ -61548,6 +66725,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -61620,6 +66806,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "802:10": {
@@ -61684,6 +66879,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -61756,6 +66960,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "804:10": {
@@ -61820,6 +67033,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -61892,6 +67114,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "806:10": {
@@ -61956,6 +67187,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -62207,6 +67447,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "810:10": {
@@ -62271,6 +67520,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -62349,6 +67607,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -62535,6 +67802,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "814:10": {
@@ -62599,6 +67875,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -62665,6 +67950,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "816:10": {
@@ -62730,6 +68024,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "817:10": {
@@ -62794,6 +68097,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -63048,6 +68360,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "821:10": {
@@ -63148,6 +68469,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "822:10": {
@@ -63222,6 +68552,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "823:10": {
@@ -63295,6 +68634,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -63392,6 +68740,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "825:10": {
@@ -63488,6 +68845,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "826:10": {
@@ -63561,6 +68927,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -63636,6 +69011,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "828:10": {
@@ -63710,6 +69094,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "829:10": {
@@ -63783,6 +69176,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -63871,6 +69273,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "831:10": {
@@ -63944,6 +69355,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -64019,6 +69439,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "833:10": {
@@ -64092,6 +69521,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -64180,6 +69618,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "835:10": {
@@ -64253,6 +69700,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -64328,6 +69784,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "837:10": {
@@ -64401,6 +69866,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -64476,6 +69950,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "839:10": {
@@ -64549,6 +70032,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -64637,6 +70129,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "841:10": {
@@ -64710,6 +70211,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -64785,6 +70295,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "843:10": {
@@ -64858,6 +70377,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -64933,6 +70461,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "845:10": {
@@ -65006,6 +70543,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -65081,6 +70627,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "847:10": {
@@ -65154,6 +70709,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -65229,6 +70793,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "849:10": {
@@ -65302,6 +70875,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -65377,6 +70959,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "851:10": {
@@ -65451,6 +71042,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "852:10": {
@@ -65524,6 +71124,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -65614,6 +71223,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -65725,6 +71343,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "855:10": {
@@ -65821,6 +71448,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -65935,6 +71571,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "857:10": {
@@ -66041,6 +71686,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "858:10": {
@@ -66114,6 +71768,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -66189,6 +71852,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "860:10": {
@@ -66263,6 +71935,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "861:10": {
@@ -66336,6 +72017,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     },
@@ -66450,6 +72140,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "863:10": {
@@ -66563,6 +72262,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "864:10": {
@@ -66663,6 +72371,15 @@
           },
           "taskID:8": "bq_standard:retrieval"
         }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
+        }
       }
     },
     "865:10": {
@@ -66749,6 +72466,15 @@
             }
           },
           "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:item",
+          "index:3": 0,
+          "rewards:9": {
+
+          }
         }
       }
     }
