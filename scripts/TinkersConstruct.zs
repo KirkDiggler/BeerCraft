@@ -6,7 +6,7 @@ print("--- loading TinkersConstruct.zs ---");
 # Fixing the conflict between multiple recipes
 	mods.tconstruct.Melting.addRecipe(<liquid:coal> * 144,<minecraft:coal>);
 	mods.tconstruct.Alloy.removeRecipe(<liquid:steel>); 
-	mods.tconstruct.Alloy.addRecipe(<liquid:steel> * 288, [<liquid:iron> * 144, <liquid:coal> * 432]);
+	mods.tconstruct.Alloy.addRecipe(<liquid:steel> * 288, [<liquid:iron> * 288, <liquid:coal> * 432]);
 	mods.tconstruct.Melting.addRecipe(<liquid:iron> * 288,<dungeontactics:iron_cluster>);
 	mods.tconstruct.Melting.addRecipe(<liquid:silver> * 288,<dungeontactics:silver_cluster>);
 	mods.tconstruct.Melting.addRecipe(<liquid:tin> * 288,<dungeontactics:tin_cluster>);
