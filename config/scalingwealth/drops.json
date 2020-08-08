@@ -1,4 +1,4 @@
-{
+  {
   "entities": {
     "minecraft:zombie": {
       "[0, 100]": [
@@ -11,6 +11,37 @@
         {
           "chance": 0.25,
           "item": "minecraft:stone"
+        }
+      ]
+    },
+    //Blaze config
+    "minecraft:blaze": {
+      "[0, 10]": [
+        {
+          "amount": "[0, 1]",
+          "chance": 0.5,
+          "item": "minecraft:blaze_rod"
+        }
+      ],
+      "[11, 20]": [
+        {
+          "amount": "[1, 2]",
+          "chance": 0.5,
+          "item": "minecraft:blaze_rod"
+        }
+      ],
+      "[100, 120]": [
+        {
+          "amount": "[2, 6]",
+          "chance": 0.7,
+          "item": "minecraft:blaze_rod"
+        }
+      ],
+      "[200, 230]": [
+        {
+          "amount": "[6, 9]",
+          "chance": 0.9,
+          "item": "minecraft:blaze_rod"
         }
       ]
     }
